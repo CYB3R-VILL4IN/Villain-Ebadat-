@@ -9,8 +9,7 @@ module.exports.config = {
     usages: " please @mention",
     cooldowns: 10,
     dependencies: {
-        "মেও--": "মেও-",
-        "মেও++": "মেও+"
+        
     }
 }
 
