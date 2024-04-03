@@ -1,0 +1,7 @@
+hidden = ["package-lock.json", "package.json", "Nayan"]
+language = "bash"
+run = "npm start"
+
+[[ports]]
+localPort = 40649
+externalPort = 80

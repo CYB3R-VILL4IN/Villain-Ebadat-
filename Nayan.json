@@ -1,0 +1,24 @@
+{
+  "author": "Nayan",
+  "autoRestart": true,
+  "developermode": false,
+  "language": "en",
+  "notification": true,
+  "approval": false,
+  "BOTNAME": "Villain Ebadat❤️🔥",
+  "PREFIX": ".",
+  "OPERATOR": [
+    "1015936228",
+    "1015936228"
+  ],
+  "ADMINBOT": [
+    "1015936228",
+    "1015936228"
+  ],
+  "OWNER": ["100000959749712"], 
+  "APPROVED": [],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working"
+}
