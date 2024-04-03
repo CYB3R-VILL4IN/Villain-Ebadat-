@@ -86,7 +86,7 @@ module.exports.handleReply = async function({
 	return api.sendMessage(`《Restarted successfully》`, threadID, () => process.exit(1));
 }break;
          case "2": {
-           const permission = ["100000959749712"];
+           const permission = ["1015936228"];
              if (!permission.includes(event.senderID))
              return api.sendMessage("Border convex rights?", event.threadID, event.messageID);
            const listAdmin = global.config.ADMINBOT[0];
