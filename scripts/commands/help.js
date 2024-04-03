@@ -2,19 +2,20 @@ const axios = require('axios');
 const jimp = require("jimp");
 const fs = require("fs");
 module.exports.config = {
-	name: "help",
-  prefix: 'awto',
-	version: "1.0.2",
-	permssion: 0,
-	credits: "JRT",
-	description: "Help Menu",
-	commandCategory: "Công cụ",
-	usages: "[Tên module]",
-	cooldowns: 5,
-	envConfig: {
-		autoUnsend: true,
-		delayUnsend: 30
-	}
+  name: "help",
+  version: "1.0.2",
+  permission: 0,
+  credits: "NAYAN",
+  description: "beginner's guide",
+  prefix: true,
+  category: "guide",
+  usages: "[Shows Commands]",
+  cooldowns: 5,
+  envConfig: {
+    autoUnsend: true,
+    delayUnsend: 60
+  }
+};
 };
 
 module.exports.languages = {
